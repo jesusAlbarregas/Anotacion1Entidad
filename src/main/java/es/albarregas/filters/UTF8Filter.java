@@ -1,4 +1,4 @@
-package es.abarregas.filters;
+package es.albarregas.filters;
 
 import java.io.IOException;
 import javax.servlet.Filter;
